@@ -1,2 +1,2 @@
 # hello-world
-sample
+sampled mnk,mjdnc
